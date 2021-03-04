@@ -26,7 +26,7 @@ Installed packages : this image should be used for development only, it contains
 
 ## Dockerhub
 
-This project is built on [dockerhub, on ChristopheZOL account](https://hub.docker.com/repository/docker/zolweb/php-fpm). Images are free to use and come AS IS. I am not responsible for any mis-usage or any problem it may cause.
+This project is built on [dockerhub, on ChristopheZOL account](https://hub.docker.com/repository/docker/chrishautenne/php). Images are free to use and come AS IS. I am not responsible for any mis-usage or any problem it may cause.
 
 Automatic building is enabled, any tag push or master push trigger a build as following :
 
